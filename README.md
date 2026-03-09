@@ -1,103 +1,139 @@
 <div align="center">
 
-```text
-╔═══════════════════════════════════════════════════════════╗
-║ "Cuanto más silencioso te vuelves, más eres capaz de oír" ║
-║                                              — Kali Linux ║
-╚═══════════════════════════════════════════════════════════╝
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91+%22Cuanto+m%C3%A1s+silencioso+te+vuelves%2C+m%C3%A1s+eres+capaz+de+o%C3%ADr%22+%E2%95%91;%E2%95%91+%E2%80%94+Kali+Linux+%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="Typing SVG" />
 
-👾 Alan Jesus Gonzalez Flores
-[ Ingeniero en Ciberseguridad · Desarrollador de Software Seguro · Co-Fundador ]
+<br/>
 
-🇲🇽 México  |  🔐 Seguridad Ofensiva  |  📱 Desarrollo Móvil  |  🚀 Co-Fundador @ Apeiron
+# 👾 Alan Jesus Gonzalez Flores
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ingeniero+en+Ciberseguridad+%F0%9F%94%90;Desarrollador+de+Software+Seguro+%F0%9F%92%BB;Co-Fundador+%40+Apeiron+%F0%9F%9A%80;Security+by+Design+%7C+Offensive+Mindset+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+
+<br/>
+
+🇲🇽 Durango, México &nbsp;·&nbsp; 🔐 Seguridad Ofensiva &nbsp;·&nbsp; 📱 Desarrollo Móvil &nbsp;·&nbsp; 🚀 Co-Fundador @ **Apeiron**
 
 </div>
-🧠 whoami
-Bash
 
+---
+
+## 🧠 whoami
+
+```bash
 $ cat sobre_mi.txt
+```
 
-Plaintext
-
+```
 Nombre     : Alan Jesus Gonzalez Flores
 Rol        : Ingeniero en Sistemas — Especialista en Ciberseguridad
 Enfoque    : Auditoría de Seguridad (SAST/DAST) + Desarrollo Móvil Seguro
 Empresa    : Apeiron — Desarrollo de Soluciones Digitales y Apps (Co-Fundador)
 Ubicación  : Durango, México 🇲🇽
 Estado     : Siempre aprendiendo. Siempre construyendo.
+```
 
-    Creo en escribir código que no solo funcione — sino que resista.
+> Creo en escribir código que no solo funcione — sino que **resista**.  
+> Mezclo la mentalidad del atacante con la disciplina del desarrollador para crear aplicaciones **a prueba de balas**.
 
-    Mezclo la mentalidad del atacante con la disciplina del desarrollador para crear aplicaciones a prueba de balas.
+---
 
-⚔️ Áreas de Especialidad
-🛡️ Ciberseguridad y Auditoría
+## ⚔️ Áreas de Especialidad
 
-Mi enfoque está en encontrar vulnerabilidades antes de que lleguen a producción. Me especializo en pruebas de seguridad para aplicaciones móviles y entornos web.
+### 🛡️ Ciberseguridad y Auditoría
 
-    Auditoría Móvil: Análisis estático y dinámico de APKs, extracción de tokens, instrumentación dinámica (Frida/Objection) y análisis de volcados de memoria.
+Mi enfoque está en encontrar vulnerabilidades **antes** de que lleguen a producción. Me especializo en pruebas de seguridad para aplicaciones móviles y entornos web.
 
-    Seguridad Ofensiva: Búsqueda de vulnerabilidades de autorización (BOLA/IDOR), pruebas de inyección y evaluación de almacenamiento local inseguro.
+- **Auditoría Móvil** — Análisis estático/dinámico de APKs, extracción de tokens, instrumentación dinámica con **Frida/Objection** y análisis de volcados de memoria.
+- **Seguridad Ofensiva** — Búsqueda de vulnerabilidades de autorización **(BOLA/IDOR)**, pruebas de inyección y evaluación de almacenamiento local inseguro.
 
-📱 Desarrollo Móvil Seguro
+### 📱 Desarrollo Móvil Seguro
 
-Construyo aplicaciones eficientes, escalables y con seguridad implementada desde el diseño (Security by Design).
+Construyo aplicaciones eficientes, escalables y con seguridad implementada desde el diseño (**Security by Design**).
 
-    Ecosistema: Especializado en el framework Flutter y Dart para interfaces multiplataforma de alto rendimiento.
+- **Ecosistema** — Especializado en **Flutter & Dart** para interfaces multiplataforma de alto rendimiento.
+- **Arquitectura** — Flujos de autenticación robustos, uso estricto de `secure_storage`, ofuscación de llaves criptográficas y protección contra entornos comprometidos (detección de Root/Jailbreak y emuladores).
 
-    Arquitectura: Implementación de flujos de autenticación robustos, uso estricto de secure_storage, ofuscación de llaves criptográficas y protección contra entornos comprometidos (detección de Root/Jailbreak y emuladores).
+---
 
-🛠️ Arsenal Técnico
+## 🛠️ Arsenal Técnico
 
 <div align="center">
 
-Desarrollo Móvil y Frontend
+**📱 Desarrollo Móvil y Frontend**
 
-Seguridad y Auditoría
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Entorno y Herramientas
+**🔐 Seguridad y Auditoría**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+**⚙️ Entorno y Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
-🏢 Apeiron
 
-    Del griego ἄπειρον — "lo ilimitado, lo infinito"
+---
 
-Apeiron es una empresa de tecnología enfocada en el desarrollo de apps y sistemas a la medida para empresas y PyMEs.
+## 🏢 Apeiron
 
-Junto a mis socios, construimos soluciones digitales que equilibran una estética impecable con una infraestructura tecnológica escalable y segura.
+> *Del griego ἄπειρον — "lo ilimitado, lo infinito"*
 
-    🔗 github.com/apeiron (próximamente)
+**Apeiron** es una empresa de tecnología enfocada en el desarrollo de **apps y sistemas a la medida** para empresas y PyMEs.  
+Junto a mis socios, construimos soluciones digitales que equilibran una estética impecable con una infraestructura **escalable y segura**.
 
-    💡 3 co-fundadores. 1 visión. Código que importa.
+| | |
+|---|---|
+| 👥 **Equipo** | 3 Co-fundadores |
+| 🎯 **Enfoque** | Software Empresarial & SaaS |
+| 🔑 **Filosofía** | Security by Design desde el día uno |
+| 🔗 **GitHub** | *(próximamente)* |
 
-🌐 Filosofía Open Source
-Python
+---
 
+## 🌐 Filosofía Open Source
+
+Creo firmemente en la cultura del código abierto.  
+Contribuyo a proyectos que empujan los límites de la seguridad y el desarrollo moderno.
+
+```python
 while True:
     aprender()
     auditar()
     construir()
     compartir()
+```
 
-📡 Contacto
+---
+
+## 📡 Contacto
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
+
 </div>
+
+---
 
 <div align="center">
 
-"Hackea el planeta — luego parchéalo." 🌐🔒
+*"Hackea el planeta — luego parchéalo."* 🌐🔒
+
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TU-USERNAME.TU-USERNAME)
 
 </div>
-
-
------
-
-### Detalles que podemos agregar (Si me pasas la info):
-
-1.  **Apeiron:** Si ya tienen definidos los colores oficiales de la marca (como ese azul y morado que suelen usar en sus diseños), podemos adaptar los colores de los *badges* (las etiquetas de tecnologías) para que combinen con la identidad visual de Apeiron.
-2.  **Residencia Profesional:** Si actualmente estás realizando tu residencia profesional y desarrollaste algún proyecto clave ahí, podemos agregar un bloque breve mencionando tus logros.
-3.  **Tecnologías Backend:** Mencionas que creas sistemas para empresas locales. ¿Qué usas en el backend? (¿Node.js, Firebase, PostgreSQL?). Podríamos agregarlo al arsenal técnico.
-
-¿Qué te parece esta estructura? Dime si quieres que ajustemos el tono de alguna sección o si agregamos las tecnologías de backend.
