@@ -121,7 +121,7 @@ while True:
 
 <div align="center">
 
-[![LinkedIn](linkedin.com/in/alan-gonzalez-73aa74300)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-gonzalez-73aa74300)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
 
 </div>
